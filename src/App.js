@@ -1,10 +1,11 @@
 
 import './App.css';
-import UserClass from './UserClass';
+
+import UsersFunction from './UsersFunction';
 
 function App() {
   return (
-    <UserClass />
+    <UsersFunction />
   );
 }
 
